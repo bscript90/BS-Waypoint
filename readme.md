@@ -1,5 +1,6 @@
 # BScript Waypoint Script
-![Bs-CombatLogCFX](https://github.com/user-attachments/assets/3e596bd1-1c82-4b76-a0f1-5328b1e1ac27)
+<img width="1920" height="1080" alt="BS-Waypoint" src="https://github.com/user-attachments/assets/7421f6df-2e03-45e0-a611-e6e4fd2c46d6" />
+
 
 ## Hello Masters of the Dusty Paths
 
